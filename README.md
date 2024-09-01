@@ -1,2 +1,2 @@
 # minecraft-server-view
-そのまんまです
+ダウンロード後npm i をしてcd srcをしてnode index.jsで行けます
